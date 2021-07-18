@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I'm Agraj Agrawal</h1>
 <h4 align="center">A passionate frontend developer</h4>
-<h4 align="center">Competitive Progarmmer</h4>
-<h4 align="center">Data Enthusiast ❤️</h4>
+<h4 align="center">Competitive Programmer</h4>
+<!-- <h4 align="center">Data Enthusiast ❤️</h4> -->
 <img  align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 <!-- <img align="right" src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif"> -->
 
