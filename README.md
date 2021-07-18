@@ -1,10 +1,9 @@
-<div style="{display:flex;}">
-<div><h1 align="center">Hi,I'm Agraj Agrawal</h1>
+<h1 align="center">Hi,I'm Agraj Agrawal</h1>
 <h4 align="center">A passionate frontend developer</h4>
 <h4 align="center">Competitive Progarmmer</h4>
 <h4 align="center">Data Enthusiast ❤️</h4></div>
-<div><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"></div>
-</div>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="center">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrajagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="agrajagrawal" /> </p>
 
