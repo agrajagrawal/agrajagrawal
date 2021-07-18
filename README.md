@@ -2,7 +2,7 @@
 <h4 align="center">A passionate frontend developer</h4>
 <h4 align="center">Competitive Progarmmer</h4>
 <h4 align="center">Data Enthusiast ❤️</h4>
-<img  align="center" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img  align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrajagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="agrajagrawal" /> </p>
