@@ -140,5 +140,5 @@
 <h3 align="center">Show some <a href="https://readme-jokes.vercel.app/api"> &nbsp;❤️&nbsp; </a> by starring some of the repositories!</h3>
 
 -----
-Credit: [ps-19](https://github.com/ps-19)
+Credit: [Agraj Agrawal](https://github.com/agrajagrawal)
 
