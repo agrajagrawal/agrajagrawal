@@ -132,10 +132,11 @@
 ### 😜 Here's a Joke for you: 😜
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> 
 - More jokes could be found here- <a href="https://readme-jokes.vercel.app/api"> &nbsp;❤️&nbsp; </a>
+<div>
 <img align="right" src="https://media.giphy.com/media/1wLXYOh3trpXIHXka5/giphy.gif" height="300px">
-  
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+</div>
 <h3 align="center">Show some <a href="https://readme-jokes.vercel.app/api"> &nbsp;❤️&nbsp; </a> by starring some of the repositories!</h3>
 
 -----
